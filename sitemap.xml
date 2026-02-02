@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jules-lewis.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jules-lewis.github.io/</loc>
+</url>
+<url>
+<loc>https://jules-lewis.github.io/about.html</loc>
+<lastmod>2026-01-14T10:54:40+00:00</lastmod>
+</url>
+<url>
+<loc>https://jules-lewis.github.io/corporate-silence-on-ai-carbon-footprint.html</loc>
+<lastmod>2026-02-02T19:48:03+00:00</lastmod>
+</url>
+<url>
+<loc>https://jules-lewis.github.io/sleepwalking-over-the-brink-the-ai-risks-were-ignoring.html</loc>
+<lastmod>2026-02-02T19:28:05+00:00</lastmod>
+</url>
+<url>
+<loc>https://jules-lewis.github.io/tariffs-who-is-getting-ripping-off.html</loc>
+<lastmod>2026-02-02T19:28:40+00:00</lastmod>
+</url>
+<url>
+<loc>https://jules-lewis.github.io/what-kemi-badenoch-didnt-say.html</loc>
+<lastmod>2026-02-02T19:29:17+00:00</lastmod>
+</url>
+</urlset>

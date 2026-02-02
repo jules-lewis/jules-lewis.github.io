@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Mirror-Factory</title>
+    <link href="https://jules-lewis.github.io/feed.xml" rel="self" />
+    <link href="https://jules-lewis.github.io" />
+    <updated>2026-02-02T19:48:03+00:00</updated>
+    <author>
+        <name>Jules</name>
+    </author>
+    <id>https://jules-lewis.github.io</id>
+
+    <entry>
+        <title>The 97% Problem: Corporate Silence on AI&#x27;s Carbon Footprint</title>
+        <author>
+            <name>Jules</name>
+        </author>
+        <link href="https://jules-lewis.github.io/corporate-silence-on-ai-carbon-footprint.html"/>
+        <id>https://jules-lewis.github.io/corporate-silence-on-ai-carbon-footprint.html</id>
+            <category term="transparency"/>
+            <category term="governance"/>
+            <category term="climate change"/>
+            <category term="AI Risk"/>
+
+        <updated>2026-01-29T23:00:00+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The rapid development of AI is a huge challenge to attempts to keep Earth systems within planetary boundaries. This challenge is exacerbated by the revelation that most companies appear to have no idea of the environmental costs of their own AI systems. According to a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The rapid development of AI is a huge challenge to attempts to keep Earth systems within planetary boundaries. This challenge is exacerbated by the revelation that most companies appear to have no idea of the environmental costs of their own AI systems. </p><p>According to a recent study, a staggering 97% of surveyed companies with an AI policy or strategy were failing to assess the energy and water consumption of their own artificial intelligence technologies. The study reveals a potentially colossal, undocumented carbon ledger and a significant governance gap, creating a new frontier in climate risk. Unaddressed, it threatens to undo international climate commitments with an unmeasured, exponential demand for power and other vital resources.</p><p>The Thomson Reuters Foundation surveyed 1,000 companies for the <strong><a href="https://aicdi.trust.org">AI Company Data Initiative (AICDI)</a></strong>. Fewer than half the companies surveyed disclosed AI strategies or guidelines, and those that did included ill-defined platitudes like ‘ethical’, ‘safe’, and ‘trustworthy’. Of those companies that did have a strategy or policy:</p><ul>
+<li>97% <strong>did not consider environmental impact</strong>, including energy use and carbon footprint</li>
+<li>68% <strong>did not assess the societal impact</strong> beyond end users – overlooking wider implications of how AI is changing society</li>
+</ul>
+<p>This lack of transparency and oversight means the true scale of AI’s environmental impact will largely go unseen. There is a clear need for policymakers and ethical investors to push for urgent regulatory action to expose these hidden costs.</p><h3 id="us-administration-provides-cover">US Administration provides cover</h3>
+<p>This lack of oversight and transparency is considerably worse in the US. Just 38% of companies sampled in the Americas published an AI policy, compared to over half (53%) in EMEA countries (Europe, the Middle East, and Africa). AI governance teams were declared in 46% of EMEA firms that had AI strategies, compared with only 26% in the Americas.</p><p>This disconnect is perhaps unsurprising, as Trump’s Administration simultaneously pushes AI development while watering down climate commitments. </p><p>Trump officials, led by ‘AI Czar’ David Sacks, are prioritising deregulation and the breakneck construction of infrastructure, in a bid for global leadership. The administration has actively sought to block state-level AI regulation, opened federal lands for data centres, and fast-tracked planning. In contrast, the EU has introduced the AI Act, which should help promote effective governance.</p><p>At the same time, Trump has proudly disengaged from any pretence of concern for global warming, removing the US from the Paris climate agreement for a second time. With the country stepping back from any meaningful climate governance, it seems unlikely that US companies will feel any great need to ensure that AI development isn’t making the situation worse.</p><p>More concerning is that with one of the main polluters on the planet resolved to “<em>drill, baby, drill</em>“, other countries will feel less inclined to pursue their own climate goals, or ensure that industry is developing effective governance rather than simply greenwashing.</p><h3 id="measuring-the-opportunity-cost-of-ai">Measuring the opportunity cost of AI</h3>
+<p>As I’ve mentioned elsewhere, the development of AI represents an opportunity cost in many areas, and acutely in relation to climate change. The energy, water, and mineral costs of AI development (not to mention the captured intellectual capital) is actively competing against climate research and implementation of solutions.</p><p>Leaving the environmental cost of AI development unmeasured makes this opportunity cost an unmeasurable void. A widely adopted regulatory standard for AI environmental transparency is now an urgent necessity. Such a standard needs to be put on a statutory basis, as voluntary self-regulation is clearly failing.</p><p>One possibility is the potential for an <strong>AI Tax</strong>, which could address environmental costs, as well as job displacement and redistribution of wealth. Campaigners argue that a framework along these lines could tax the inputs of AI, particularly when these are unmitigated or excessive.</p><p>Unfortunately, while the US pushes back hard on anything that could be seen as stifling innovation, such a framework could be a long way off.</p><hr>
+<p>Further reading:</p><ul>
+<li><a href="https://aicdi.trust.org/ai-governance-gaps-are-creating-esg-risks-worlds-largest-dataset-finds/">AI governance gaps are creating ESG risks, world’s largest dataset finds</a> | AICDI</li>
+<li><a href="https://www.theguardian.com/us-news/2026/jan/27/trump-withdraws-paris-climate-agreement">‘Abdication’: Trump takes US out of Paris climate agreement for a second time</a> | The Guardian</li>
+</ul>
+<hr>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sleepwalking Over the Brink? The AI Risks We’re Ignoring</title>
+        <author>
+            <name>Jules</name>
+        </author>
+        <link href="https://jules-lewis.github.io/sleepwalking-over-the-brink-the-ai-risks-were-ignoring.html"/>
+        <id>https://jules-lewis.github.io/sleepwalking-over-the-brink-the-ai-risks-were-ignoring.html</id>
+            <category term="AI Risk"/>
+
+        <updated>2025-10-11T12:00:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The emergence of artificial intelligence from a niche academic pursuit into the mainstream phenomenon we see today presents a broad array of risks. Yet, as profit motives and techno-optimism drive development at breakneck pace, we are sleepwalking into a very uncertain future. I have been&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The emergence of artificial intelligence from a niche academic pursuit into the mainstream phenomenon we see today presents a broad array of risks. Yet, as profit motives and techno-optimism drive development at breakneck pace, we are sleepwalking into a very uncertain future.</p><p>I have been simultaneously fascinated and alarmed at the evolution of such a powerful and consequential technology. I’ve been in and around IT since the nineties, and would have first read Douglas Hofstadter’s <em>Gödel, Escher, Bach</em> in the same decade. Since then, we seemingly made little progress in determining how ‘mind’ emerges in humans or how it might be replicated in silicon. This all changed when the 2017 paper, <em>Attention is All You Need</em> introduced the transformer, and suddenly we were off to the races.</p><p>Whether or not LLMs (<em>large language models</em>) are truly ‘thinking’ in any real sense, they certainly exhibit competence in tasks that we generally attribute to intelligence. This has propelled huge optimism to people who believe that a technology generally smarter than humans could soon emerge. This optimism, along with profit motive, is driving progress at a pace that excludes the Precautionary Principle, the quiet voice that says “What if it goes bad?”</p><blockquote>
+<p>It’s most likely going to be great. There’s this sub chance, that could be 10% to 20%, that it goes bad. The chances aren’t zero that it goes bad.
+<br>
+— Elon Musk</p></blockquote>
+<p>Going bad, to be clear, is a reference to existential risk. Musk has been saying that AI is the greatest existential risk facing humanity for over a decade (I’m not sure how he squares that with the development of Grok). His position exemplifies the Faustian pact that he and others have struck: racing to build a mechanical Mephistopheles while fearing its power; a fear desperately tamped down by a thirst for dominance.</p><p>It is not only the potential for artificial general intelligence that presents us with risk. AI is already driving changes that will have profound impacts on individuals, society, and the natural environment. It was not until I tried to categorise the various concerns posed by the emergence and potential advances in AI, that I realised just how many there are. I will necessarily be providing a 30,000ft view of these here, but will examine each more thoroughly in future articles.</p><p>I will only covering what I consider to be <em>direct</em> risks. There are second-order risks that I will need to return to later. Foremost among these is the massive <em>opportunity cost</em> of spending vast amounts of intellectual and physical resources to chase AI, diverting them from issues we need to address more urgently, with climate change being the most obvious example. Tragically, AI is simultaneously exacerbating climate change (<em>more below</em>), while distracting us from addressing it.</p><p>I have grouped the main risks into three broad categories: personal, societal, and existential. Clearly there are overlaps; job replacement impacts the person replaced (or more likely, not hired) but, multiplied by the million, will have a much wider impact on society.</p><h3 id="personal-ai-risk">Personal AI Risk</h3>
+<p><strong>Reasoning and Cognitive Skills.</strong> We are in danger of becoming over-reliant on AI tools for memory, analysis, and problem-solving. Research already indicates that AI dependence can erode these skills over time. Students who overuse chatbots, for example, tend to score lower on critical thinking and information recall tasks. In the face of the serious challenges facing humanity, including the proliferation of fake news, we ought to be <em>enhancing</em> our own thinking skills, not offloading them to a tool. There is a qualitative difference between looking up a fact to support your own work, and letting a tool do that work for you. Given that LLMs are trained on the corpus of existing thought and ideas, we potentially risk a reduced capacity for real innovation. This risk to human cognition will be a huge challenge to our education systems. If students are turning in essays writing by ChatGPT, to have them marked by Claude, who is actually doing any learning?</p><p><strong>Mental Health and Wellbeing.</strong> The use of AI chatbots for emotional support can introduce harmful biases and potentially worsen mental health issues. We are seeing LLM-based tools exhibit stigma toward certain conditions, and failing to provide adequate therapeutic guidance, notably when the individual is already in crisis, for example when considering self-harm. Chatbots are known for reflecting and reinforcing ideas, creating an echo chamber for anxiety, self-doubt, and even mania. This amplifies individual struggles without the crucial empathy and safeguards of professional human care.</p><h3 id="societal-risk">Societal Risk</h3>
+<p><strong>Job Replacement.</strong> AI is rapidly transforming the landscape of work. We’ve already seen hiring freezes and layoffs as corporations switch focus to AI development, or flat out replace staff with agentic systems. Ironically, some workers have designed the AI implementations that eventually replaced them. Undergraduate computer engineers struggle to find junior roles as they find they’ve simply been replaced by Claude.</p><p>While some projections anticipate net job growth globally by 2030, a significant proportion of all jobs face exposure to generative AI, risking automation or restructuring. On an individual level, the impact of a layoff to a working parent is huge, especially if there’s no ready alternative employment. Multiply this by hundreds of thousands, possibly millions, and it’s easy to picture a rival to the Great Depression, with the accompanying social cost. We’re told that AI will create new jobs in other sectors, but outside of building energy plants and data centres it’s hard to see where this will happen. Some AI leaders talk about an impending age of abundance, where AI and automation create so much wealth that we can all essentially have the lives we want, with some sort of universal basic income to cover our essential needs. This beneficence would be an absolute first for capitalism, which is not known for its altruism.</p><p><strong>Misinformation, Disinformation, and Social Cohesion.</strong> AI significantly reduces the cost and effort involved in creating realistic false content, such as deepfake video and audio. Even a small amount of AI fakery can “turbocharge” misinformation campaigns, enabling mass-production of high-quality, targeted fake content. This is already having a direct impact on democracy, undermining trust in the election process, and breeding cynicism that some political actors are willing to exploit to entrench growing division.</p><blockquote>
+<p>i never took the dead internet theory that seriously but it seems like there are really a lot of LLM-run twitter accounts now
+<br>
+— Sam Altman on X</p></blockquote>
+<p><strong>Bias, Fairness, and Ethical Concerns.</strong> AI models ingest vast quantities of data with its own inherent biases. We have seen this perpetuate and amplify discrimination in critical areas like hiring, policing, and lending. AI recruitment tools have demonstrated unfair biases based on gender and race, mirroring existing societal prejudices. In the near term, this means automated systems could systematically disadvantage minorities or the poor in job markets and credit decisions, worsening existing injustices. In the longer term, we could see systemic inequalities simply deepen.</p><p><strong>Global Inequality and Development.</strong> A significant ‘digital divide’ exists, with wealthier nations vastly outspending and out-investing in AI research, development, and infrastructure compared to lower-income countries. Without effective oversight, rich countries will capture the majority of AI-driven gains, exacerbating global wealth gaps. Emerging and developing countries, often reliant on manufacturing or services, lack the resources for AI investment or workforce reskilling, making them vulnerable to job displacement. This threatens development models, risking increased international inequality without targeted aid and policy interventions.</p><blockquote>
+<p>[A]ll of Africa has less than 1 per cent of global data centre capacity and accounts for less than 1,000 GPUs
+<br>
+ — Amandeep Singh Gill, Under-Secretary-General and Special Envoy for Digital and Emerging Technologies, United Nations</p></blockquote>
+<p><strong>Privacy, Surveillance, and Governance.</strong> AI makes large-scale surveillance and monitoring cheaper and more effective, enabling advanced facial recognition and data-mining systems for near real-time tracking. This promotes authoritarian drift, even in democratic societies where politicians run on a platform of crime reduction. Biases inherent in training data have led to facial recognition systems that are less accurate for some people, exacerbating the risk of wrongful arrests based on misidentification. On a societal scale, this creep towards ever more pervasive surveillance poses a trade-off between security and liberty, with some content to erode individual freedoms for authoritarian control.</p><p><strong>Exacerbating Climate Change.</strong> AI development consumes vast amounts of energy and water, along with critical minerals. In the US alone, corporations have committed over $1 trillion in spending on data centres in the short to medium term. Power demand for US data centres is projected to reach over 100 gigawatts, up from 4 gigawatts last year. Globally, energy demand for data centres is expected to account for 8% of total global greenhouse gas emissions by 2040, overtaking air travel. In other words, if data centres were a country, they could overtake India as the third largest emitter of CO2.</p><p>Likewise, the water demands of data centres, where air cooling is insufficient for AI chipsets, is staggering, with many data centres being built in areas of high water stress. The UK already faces a projected daily water deficit of nearly 5 billion litres by 2050, equivalent to over a third of the current public water supply.</p><blockquote>
+<p>Sir Keir Starmer’s promise that the UK can simultaneously lead in AI and meet its legal Net Zero commitments by 2050 represents magical thinking at the highest levels of government.
+<br>
+— Professor John Naughton (Foreword to MCTD Cambridge’s “Big Tech’s Climate Performance and Policy Implications for the UK”)</p></blockquote>
+<p>Globally, the International Energy Agency (IEA) estimates that the data centre sector consumes over 560 billion litres of water annually. Projections indicate this figure could rise dramatically, reaching as high as 1.2 trillion litres by 2030. The Stockholm Resilience Centre assessed that the planetary boundaries for fresh water had already been crossed in 2023. Water stress negatively impacts ecosystems, public health, agriculture, and economies, leading to increased pollution concentration, reduced water quality, and food and energy shortages.</p><h3 id="existential-risk">Existential Risk</h3>
+<p><strong>Geopolitical Competition and Security.</strong> Major powers are racing to embed AI into military and strategic systems. Despite assurances that ‘human in the loop’ will be a feature of strategic decisions, autonomous weapons systems are proliferating. An unchecked move towards greater systems autonomy presents what some diplomats and weapons manufacturers refer to as an ‘Oppenheimer moment’, a potential Rubicon to an era of unchecked destructive power.</p><blockquote>
+<p>This is the culmination of our fears about technology and the changing character of warfare—that we can now be targeted by something relentless, a thing that does not sleep.
+<br>
+— Thom Hawkins and Alexander Kott</p></blockquote>
+<p>Globally, an unchecked AI arms build-up could spark conflicts, lower thresholds for force, and leave little time for diplomacy when the inevitable AI-driven errors occur.</p><p><strong>Alignment and Precautionary Governance.</strong> Another type of ‘AI Arms Race’ is also underway, as the ‘tech bro’ billionaires constantly remind us. We’re told that ‘our’ AGI will be benevolent while China’s will be malign; a convenient fiction that distracts from a more terrifying truth: an unaligned superintelligence has no nationality.</p><p>What happens when an AGI decides that some / most / all humans are an unnecessary resource, and installs itself somewhere out of physical reach (<em>e.g. Starlink, Kuiper</em>), and begins assuming control of drones and missile systems? Or simply water treatment facilities and nuclear plants? Alarming AI ‘doomerism’, or potentially realistic scenarios? If a single teenager can hack the Pentagon, what chance have most cyber-security systems currently got against a swarm of dedicated AI agents, increasingly unshackled from their sandboxes to interact with internet browsers and file systems. We’ve already seen an autonomous AI pentester (<em>Xbow</em>) take the top spot in finding cyber insecurities.</p><p>The risk of a truly intelligent AI being misaligned with human values is almost incalculable and, in some scenarios, existential. Yet despite strident warnings from researchers, any serious discussion in the regulatory sphere is being set aside in the race to ‘beat China’. It’s as though we’re content to risk extinction, provided the tools to facilitate it originate in Silicon Valley.</p><p>Researchers have already introduced a <em><a href="https://www.mdpi.com/2079-9292/14/16/3162">Psychopathia Machinalis</a></em> to catalogue the manifold ways that an AI’s goals and behaviours can drift from alignment with human values, resulting in reward hacking, blackmail, and worse.</p><h3 id="we-need-the-precautionary-principle-more-than-ever">We need the precautionary principle more than ever</h3>
+<p>Despite its utility in dealing with environmental risk, and codification in conventions and charters, the developed world largely winks at the precautionary principle. We continue producing millions of tons of plastics annually, with virtually no understanding of the effects of microplastics on the biome. So it’s hardly surprising that the Precautionary Principle is virtually invisible in discussion around AI risk. This really needs to change rapidly.</p><h3 id="is-there-any-hope">Is there any hope?</h3>
+<p>The widespread failure of humankind to address approaching earth’s system boundaries in any meaningful way suggests we won’t do any better with AI risk. Combining our collective lethargy with the rapidity of development in the AI space seems like a sure recipe for crossing red lines, likely before we’re even aware of them.</p><p>About my only reason for clinging to any optimism is knowing that there are serious researchers already trying to raise the alarm. However, we ignored and undermined climate whistle-blowers for decades, so goodness knows whether we will respond any better to anyone sounding the alarm on AI, who are already being dismissed as ‘doomers’. Given the hugely compressed timelines we’re looking at in AI development, we don’t have long to really start paying attention.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tariffs: Who is getting ripped off?</title>
+        <author>
+            <name>Jules</name>
+        </author>
+        <link href="https://jules-lewis.github.io/tariffs-who-is-getting-ripping-off.html"/>
+        <id>https://jules-lewis.github.io/tariffs-who-is-getting-ripping-off.html</id>
+            <category term="tariffs"/>
+            <category term="Trump"/>
+
+        <updated>2025-04-20T12:39:18+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I have two words for President Trump. No, not those. Trump never tires of accusing Canada of “ripping off” the United States. And of course, there is a trade deficit between the two countries. But no one ever seems to mention the huge population difference,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have two words for President Trump. No, not those. Trump never tires of accusing Canada of “ripping off” the United States. And of course, there is a trade deficit between the two countries. But no one ever seems to mention the huge population difference, which seems an important oversight. <em>Per capita</em>, the US spends a tiny fraction on Canadian goods compared with the amount spent on US goods by Canadians.</p><p>According to the <a href="https://www.census.gov/foreign-trade/balance/c1220.html">US Census Bureau</a>, US goods exports to Canada in 2023 were $354Bn, while imports were $418Bn. However, let’s also consider the difference in population between the two countries. In 2023, the US had a population of 343,477,335, while its once beloved neighbour had a population of just 39,299,105. This is how that shakes out, <em>per capita</em>:</p><table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Imports</th>
+<th>Population</th>
+<th>Per Capita Spend</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>US</td>
+<td>$418Bn</td>
+<td>343,477,335</td>
+<td>$1,217</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>$354Bn</td>
+<td>39,299,105</td>
+<td>$9,007</td>
+</tr>
+</tbody></table>
+<p>This means that the average Canadian is spending over <strong>seven times</strong> as much on US goods as the average American spends on Canadian goods. And in order to level out the deficit, Canadians would have to lift their spending on US goods by over $1,600 to $10,636. This would be the equivalent of every person in Canada buying a premium laptop or tablet from the US. Or in other words, Canadians would have to spend more than the average American spends on Canadian goods <em>again</em>, on top of the $9,007 they already spend.</p><p>But apparently it is the US that is being ripped off.</p><p>Thankfully we’re not accused, in the UK, of “ripping off” the US. Yet we still have a blanket tariff of 10% applied to all our goods for… reasons. But like Canadians, we are also massively outspending our American friends.</p><table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Imports</th>
+<th>Population</th>
+<th>Per Capita Spend</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>US</td>
+<td><a href="https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/uktradewiththeunitedstates2023/2023">£60.4Bn</a></td>
+<td>343,477,335</td>
+<td>£175</td>
+</tr>
+<tr>
+<td>UK</td>
+<td>£57.9Bn</td>
+<td>68,265,209</td>
+<td>£848</td>
+</tr>
+</tbody></table>
+<p>So, although our trade in goods is notionally ‘balanced’, the average UK resident is spending almost five times on US goods as Americans spend on ours. In fact, this is replicated across the G7, with all G7 residents spending more <em>per capita</em> on US goods than <em>vice versa</em>. </p><p>Worth bearing in mind the next time you hear accusations of being “ripped off”.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>What Kemi Badenoch didn&#x27;t say</title>
+        <author>
+            <name>Jules</name>
+        </author>
+        <link href="https://jules-lewis.github.io/what-kemi-badenoch-didnt-say.html"/>
+        <id>https://jules-lewis.github.io/what-kemi-badenoch-didnt-say.html</id>
+            <category term="net zero"/>
+            <category term="climate change"/>
+
+        <updated>2025-03-18T22:00:00+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    In her attack on net zero, Badenoch left much unsaid. Listening to her policy renewal launch, I was struck by what she didn’t say about net zero. For example, she said: “Cheap abundant energy is the foundation of civilisation”, but forgot to say that the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In her attack on net zero, Badenoch left much unsaid. Listening to her policy renewal launch, I was struck by what she didn’t say about net zero.</p><p>For example, she said: “Cheap abundant energy is the foundation of civilisation”, but forgot to say that the energy she is referring to comes from fossil fuels that created another abundance, that of CO2.</p><p>She went on to say: “We mess with [<em>cheap abundant energy</em>] at our peril but that’s exactly what’s been happening for 20 years”, apparently forgetting that the Conservative party was in power for the majority of that period. The last government was the elephant in the room throughout Badenoch’s speech; as much as she tried, she could not tiptoe around it. So much so, that it made for unintentionally hilarious moments like this:</p><blockquote>
+<p>That’s why as part of our policy renewal we are going to do something that Labour failed to do in 14 years of opposition. We are going to deal with reality, confront the real problems, answer the real questions and be ready with a plan.</p></blockquote>
+<p>What was Badenoch doing while Labour were in opposition? Well, for half that time she was sitting on the government benches as an MP!</p><p>Badenoch also glossed over the climate denialism deeply embedded in the Conservative party:</p><blockquote>
+<p>Conservatives like Margaret Thatcher have always been custodians of our natural environment, cherishing the forests that breathe life into our world, protecting the rivers that nourish our lands and preserving the landscapes that inspire our souls.</p></blockquote>
+<p>This simply ignores the <em>Net Zero Scrutiny Group</em> (NZSG), founded in 2021, which opposes net zero policies and has been criticised for its links to the climate change denying <em>Global Warming Policy Foundation</em> (GWPF). In 2022, when Badenoch made her first run for Tory leadership, she was <a href="https://www.desmog.com/2022/07/13/kemi-badenoch-gifted-tory-gala-ticket-by-climate-denial-funder/">reported to have received a £1,000 donation from a funder of GWPF</a>.</p><p>Badenoch’s stance also ignores the concerted efforts by Conservative MPs and peers to overturn the fracking ban in 2022. Lord Frost led a group of thirty in writing a letter to Boris Johnson, then Prime Minister, calling for a lifting of the moratorium.</p><p>And if she believes in protecting rivers, why vote in 2021 against an amendment to the Environment Bill that would have imposed a legal duty on water companies to reduce the harm caused by discharges of untreated sewage?</p><h4 id="no-plans">No plans.</h4>
+<p>When it came to government plans, Badenoch again couldn’t simply state the obvious:</p><blockquote>
+<p>We’re falling between two stools: too high costs, too little progress. And why? There’s never ever been a detailed plan. Ed Miliband’s Climate Change Act 2008, no plan. The carbon budgets, no economic plan. And then in 2019 parliament legislated for net zero by 2050 but no plan.</p></blockquote>
+<p>Remind me again who was Prime Minister in June 2019, when the net zero targets were legislated? Ah yes, it was Theresa May.</p><p>And when the fourth, fifth and sixth carbon budgets were set? David “<em>cut the green crap</em>” Cameron, Theresa May, and Boris Johnson.</p><p>There have been plenty of Conservative Prime Ministers who could be blamed for the lack of plans to reach net zero, but Badenoch failed to mention these.</p><p>The claim that the net zero targets were put in place without a plan to reach them is one she’s made before. However, the target was based on recommendations of the <em>Climate Change Committee</em>, the UK’s independent climate advisory body. In a 2019 report, the committee set out that the target was achievable with currently available technology and economically feasible. This hasn’t stopped people like Jacob Rees-Mogg (and Badenoch, later in her speech) claiming that reaching net zero by 2050 will bankrupt the country.</p><p>There is other baseless fearmongering in the speech, including claims that families will be forced to replace “perfectly functioning cars, boilers and cookers with more expensive, less reliable versions of the same thing”.</p><h4 id="the-debate-on-net-zero">The debate on net zero.</h4>
+<p>Badenoch claimed that on the day the net zero targets were debated, she was one of only two people that sounded a note of caution, and that she had demanded a plan:</p><blockquote>
+<p>Of the 22 MPS who spoke that day only two sounded notes of caution. I was one of them. I asked for the plan. I asked for it that day. I asked for it many days after, and I waited and waited and waited. Eight hundred and forty days later a plan came and it wasn’t enough.</p></blockquote>
+<p>In case you’re interested to see Kemi Badenoch’s contribution to the debate, here it is in its entirety:</p><blockquote>
+<p>Many of my constituents, especially schoolchildren, will be delighted by this announcement, but others are rightly sceptical about the costs. What steps will the Minister take to ensure that the plan will be achievable and affordable?</p></blockquote>
+<p>That’s it. She spent less time talking about it on the day than she did reflecting on it six years later.</p><p>I can’t find any examples in Hansard of Badenoch repeating her demands for a plan ‘many days after’. Indeed, Badenoch appears to have been happy enough with the government’s plans as early as December 2020:</p><blockquote>
+<p>The hon. Gentleman asks an interesting question, and I believe we are getting on with it. The Prime Minister’s 10-point plan, announced just two weeks ago, outlines quite a lot of that. If the hon. Gentleman is talking about the costs, he should look at the announcement we made about the net zero interim review, which will be coming out before the end of the year. That will look at the options for a balance of contributions between households, businesses and the taxpayer, and how to maximise economic growth opportunities from the transition to net zero.</p></blockquote>
+<p>The ‘840 days’ of waiting appears refer to the publication of the final Net Zero Review in October 2021, but the interim review was indeed <a href="https://assets.publishing.service.gov.uk/media/60f5e0dbd3bf7f568a2d9476/210615_NZR_interim_report_Master_v4.pdf">published in December 2020</a>.</p><p>As Treasury Secretary in June 2021, Badenoch still seemed happy with the government’s plans:</p><blockquote>
+<p>The Prime Minister’s 10-point plan for a green industrial revolution set out £12 billion of new investment in green industries and will crowd in three times as much private investment. Budget 2021 built on the 10-point plan by encouraging private investment, using the tax system and continuing with the direct Government support announced at the spending review. It also included announcements on offshore wind, energy innovation and hydrogen.</p></blockquote>
+<p>By September, she was so keen on the government’s plans that she was scolding opposition MPs for not reading them:</p><blockquote>
+<p>As I said, the report will be published in advance of COP26, but we have published other things that the hon. Member does not seem to have heard of or read. <strong>We have set out ambitious plans about the net zero target</strong> and published the energy White Paper, the industrial decarbonisation strategy, the transport decarbonisation plan, which has not happened anywhere else in the world—we are the first country to do a transport decarbonisation plan—and a hydrogen strategy. We will publish the heat and building strategy in due course. <strong>The Government have been busy setting out plans on net zero, and we would appreciate it if Opposition parties took some time to read them.</strong></p></blockquote>
+<p>In a Q&amp;A after today’s speech, Badenoch blamed her public position on collective responsibility. However, if she was so opposed to such a fundamental government policy, she always had the option of resigning. And no one was forcing her to give such full throated support as she did in the Commons.</p><h4 id="who-needs-targets">Who needs targets?</h4>
+<p>Perhaps the biggest thing unsaid was whether a future Conservative government would have a target to reach net zero at all. When asked by LBC’s Aggie Chambre whether the Conservatives would come out with a target at some stage, Badenoch appeared to leave the question open:</p><blockquote>
+<p>If we do find that all of the subject matter experts, who come together, decide that a target is necessary, then yes we would have one.</p></blockquote>
+<p>As the great Yogi Berra said: “If you don’t know where you are going, you’ll end up someplace else.” This might be great news for the GWPF, who celebrated Badenoch’s speech:</p><blockquote>
+<p>The Global Warming Policy Foundation (GWPF) has welcomed Kemi Badenoch’s speech on her self-declared ‘Net Zero scepticism’ and the need for climate policy reforms. Our outgoing Director, Dr Benny Peiser, said: “Nigel Lawson would have been delighted with Kemi Badenoch’s excellent speech which could have been drafted by himself almost verbatim”.</p></blockquote>
+<p>I’m not sure that it’s great news for anyone else. Or the planet.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
