@@ -3,12 +3,44 @@
     <title>The Mirror-Factory</title>
     <link href="https://jules-lewis.github.io/feed.xml" rel="self" />
     <link href="https://jules-lewis.github.io" />
-    <updated>2026-03-03T01:17:04+00:00</updated>
+    <updated>2026-03-13T17:04:29+00:00</updated>
     <author>
         <name>Jules</name>
     </author>
     <id>https://jules-lewis.github.io</id>
 
+    <entry>
+        <title>I guess I&#x27;m an AI flexitarian...</title>
+        <author>
+            <name>Jules</name>
+        </author>
+        <link href="https://jules-lewis.github.io/ai-flexitarian.html"/>
+        <id>https://jules-lewis.github.io/ai-flexitarian.html</id>
+            <category term="mindful AI"/>
+            <category term="AI Risk"/>
+
+        <updated>2026-03-13T17:00:00+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I have been in a real quandary. In the past 24 hours I’ve told Gemini to create a task for me, transcribed notes with Wispr Flow, and built a utility script with Claude. All the while, I remain deeply concerned at the acceleration of capability&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have been in a real quandary. In the past 24 hours I’ve told Gemini to create a task for me, transcribed notes with Wispr Flow, and built a utility script with Claude. All the while, I remain deeply concerned at the acceleration of capability within the AI space, and the challenge of embedding safety into the AI ecosystem.</p><p>In the past couple of weeks we’ve seen the Pentagon end a contract with Anthropic over safety concerns, while other frontier providers appear more willing to turn a blind eye, trusting the US Department of Defense would never break the law, and Congress would never legalise fully autonomous weaponry or mass surveillance (yes, I’m looking at you, OpenAI). Many prominent thinkers in the space have suggested timescales of less than a decade or two to reach AGI, while others consider the existential risk of an AGI as decidedly non-zero. </p><blockquote>
+<p>[M]ost of the experts in the field think that sometime, within probably the next 20 years, we’re going to develop AIs that are smarter than people. And that’s a very scary thought.<br>…<br>My worry is that the invisible hand is not going to keep us safe. So just leaving it to the profit motive of large companies is not going to be sufficient to make sure they develop it safely<br>…<br>The only thing that can force those big companies to do more research on safety is government regulation.  </p><p>— Geoffrey Hinton</p></blockquote>
+<p>Not surprisingly, many look at the lack of safety, the threats to society from job replacement and undermining of the creative arts, the huge drain on energy to produce childish (and offensive) memes for the White House, and decide to adopt a stance of <a href="https://en.wikipedia.org/wiki/AI_veganism">AI veganism</a>. By using LLMs we’re participating in a flawed and dangerous system; better to avoid them altogether.</p><p>As a recovering optimist, and tech-optimist particularly, I’m taking a slightly different approach. Is <em>AI flexitarianism</em> a thing?</p><p>On a planetary scale, I am deeply committed to seeing our CO2 (and equivalent) usage reduced to the point that we’re actually removing CO2 from the atmosphere. I know we will start living within planetary boundaries sooner if we drastically reduce meat and dairy consumption. Yet I do drive a (shared) car and still enjoy the occasional cheeseburger. </p><p>Does this make me a hypocrite? There are plenty on the internet who will say yes, OFTEN IN ALL CAPS. Of course, there is no winning with critics like this, and their objections are often performative. I could ditch every petroleum-based product, stop eating anything I haven’t grown myself, use a discarded feather to scratch out this article on recycled paper, and still not satisfy them. And at that stage, of course, I could simply be dismissed as a tree-hugging crank.</p><p>Criticising someone for wanting to see society change, while still participating in that society, is completely unreasonable. But it’s widespread online, and I occasionally stray into upbraiding myself in similar terms. I stopped flying in 2017, installed solar panels on the house, planted hundreds of trees, recycle most of my waste, blah blah blah. But I’ll still beat myself up if I’m getting less than 45mpg in the car, or buy a slightly cheaper chicken breast that wasn’t hand raised by vegan poets.</p><p><figure class="post__image"><img loading="lazy" src="https://jules-lewis.github.io/media/posts/28/improve-society-matt-bors.jpg" alt="Image description" width="600" height="426" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-xs.jpg 640w ,https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-sm.jpg 768w ,https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-md.jpg 1024w ,https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-lg.jpg 1366w ,https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-xl.jpg 1600w ,https://jules-lewis.github.io/media/posts/28/responsive/improve-society-matt-bors-2xl.jpg 1920w"></figure>
+<br><em>I think Matt Bors puts it best</em></p><p>What has helped me is to think of AI as simply another tool (or set of tools). The technology isn’t going away and is quickly becoming ubiquitous in society. We can’t uninvent the wheel, the printing press, or nuclear fission. But we can point out the risks of using tools in a dangerous way, while continuing to use them appropriately. </p><p>There are some unique aspects to the speed of development in the AI field that magnify the challenges. We are faced with societal level impacts at a pace that we seem ill prepared for as a society. In ten to fifteen years we will have a generation of young people dependent on AI to some extent for their information and reasoning. We may well have important decisions being made by systems that we don’t truly understand (<a href="https://jules-lewis.github.io/flash-war-why-the-next-global-conflict-could-be-over-before-humans-can-intervene.html">including on the battlefield</a>). The thought of what happens if those systems become unavailable (or even unreliable) is frightening to comprehend. We saw the impact on global supply systems when a <a href="https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction">single container ship got stuck in the Suez Canal</a>; imagine what would happen if AWS or Azure disappeared for a day or two…</p><p>In the meantime, I can research more quickly with NotebookLM than I can on my own. This piece can be proofread (and will have been by the time you read it) more accurately than I can do myself (can we ever really find 100% of our own typos?). I’m unhappy with our first-past-the-post two party system, but would rather write to my MP than move to Scandinavia. (<em>Actually, I’d love to move to Scandinavia, but proportional representation isn’t even in the top ten of reasons!</em>)</p><p>So, I’ll continue using AI tools, in a mindful way, while pondering and pointing out the dangers inherent in the space. In fairness to readers, I plan to introduce a level of transparency, so AI vegans can decide whether or not to read my work at all. I’ve looked at Daniel Miessler’s <a href="https://danielmiessler.com/blog/ai-influence-level-ail">AI Influence Level</a> scale, but don’t really believe an LLM can influence my work. (Obviously, AI as a <em>field of interest</em> is an influence on my work, but I don’t see how Claude could be.) I will include some sort of footnote, disclaimer, or colophon, going forward. Suffice to say for now that AI will likely have been used to help research articles, proofread them, and automate any cross-posting (I plan to hook this blog up to Substack at some point).</p><hr>
+<p>Further reading:</p><ul>
+<li><a href="https://www.theguardian.com/technology/2024/dec/27/godfather-of-ai-raises-odds-of-the-technology-wiping-out-humanity-over-next-30-years">‘Godfather of AI’ shortens odds of the technology wiping out humanity over next 30 years</a> | The Guardian</li>
+<li><a href="https://danielmiessler.com/blog/ai-influence-level-ail">AI Influence Level (AIL)</a> | Daniel Miessler</li>
+<li><a href="https://thenib.com/mister-gotcha/">Mr Gotcha, by Matt Bors</a> | The Nib</li>
+</ul>
+<hr>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flash War: Why the next global conflict could be over before humans can intervene</title>
         <author>
